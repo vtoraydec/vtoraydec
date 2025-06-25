@@ -12,7 +12,7 @@ vless://64cf04ca-3a8c-4a74-958d-ba1a055e1570@mz.mobile7seven.ir:8443?encryption=
 vless://64cf04ca-3a8c-4a74-958d-ba1a055e1570@mz.mobile7seven.ir:8443?encryption=none&security=none&type=ws#%20%D9%84%DB%8C%D9%86%DA%A9%20%D9%81%D8%B9%D8%A7%D9%84%20%D8%AF%D8%B1%20%D9%85%D8%AD%D8%AF%D9%88%D8%AF%DB%8C%D8%AA%20%E2%9C%85
 trojan://jZazEDqDqdwbRc083H3a8w@mz.mobile7seven.ir:2096?security=tls&sni=login.mobile7seven.ir&type=ws&host=mz.mobile7seven.ir&path=%2Fseven%3Fed%3D2048#%F0%9F%9A%80%20sol-3180
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpER2p6V0JlU003dEZYeXlpUnQ1ZjFn@mz.mobile7seven.ir:1080#%F0%9F%9A%80%20SolEnd
-
+vless://c9df8e99-71f7-22b5-8f02-428e2d3ec5be@l79.magicnetwork.info:443?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#ghflnk1
 vless://6eb6ad69-9fdb-4fd2-a7b6-1ecd0aae8aa9@iran.yarnovin.com:50077?type=ws&path=%2F&host=&security=none#MOVAGHAT-sv6y3iih
 
 ------------------------
