@@ -6,7 +6,8 @@
 
 
 -------
-vmess://eyJhZGQiOiJoMS5wYXJzZW1vYmlsZS5vbmxpbmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InRlbGV3ZWJpb24uY29tIiwiaWQiOiJlZjEyYTMzMi0zMmEyLTRlZGYtOWU5Yy04ODdkMjVlZDg4ODYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMTkzMyIsInBzIjoiMDItcGFyc2U2MDciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjAyLXBhcnNlNjA3IiwNCiAgImFkZCI6ICJoMS5wYXJzZW1vYmlsZS5vbmxpbmUiLA0KICAicG9ydCI6ICIyMTkzMyIsDQogICJpZCI6ICJlZjEyYTMzMi0zMmEyLTRlZGYtOWU5Yy04ODdkMjVlZDg4ODYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogImh0dHAiLA0KICAiaG9zdCI6ICJ0ZWxld2ViaW9uLmNvbSIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+
 ------------------------
 
 -------------------------------------
