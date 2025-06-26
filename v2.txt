@@ -28,4 +28,17 @@ hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@77.90.52.69:35000?obfs=
 -----------------------------------------------------
 vless://9783723b-b652-472e-aa72-d181621eef41@46.101.210.59:8629?type=tcp&security=reality&fp=firefox&sni=journalofbigdata.springeropen.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%94%92VL-TCP-RLT%F0%9F%87%A9%F0%9F%87%AADE-46.101.210.59:8629
 
+vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?type=tcp&security=tls&fp=chrome&sni=api.chandplus.com&allowInsecure=true#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20VL-TCP-TLS%204%E2%83%A3
 
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@109.176.239.251:8880?type=ws&host=cf.d3z.net&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3%20@WangCai2%20/?ed%3D2560#%F0%9F%94%92VL-WS-NA%F0%9F%87%AC%F0%9F%87%A7GB-109.176.239.251:8880
+
+vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?type=tcp&headerType=http&host=speedtest.net&security=none#%F0%9F%87%AB%F0%9F%87%B7+France+%7C+All+Net%F0%9F%94%9D
+
+
+vless://0296a016-82c7-4d0b-8d8a-4dfb79467f1a@buy.mobiletoskan.com:2070?type=tcp&headerType=http&host=telewebion.com&security=none#%F0%9F%8C%90%D8%B3%D8%B1%D9%88%D8%B11004%7CTir-04%7CMTSRVRS
+
+
+vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?type=tcp&headerType=http&host=speedtest.net#%F0%9F%87%AE%F0%9F%87%B7IR_228_@Surfboardv2ray
+
+
+vless://02d3ce27-70f5-4d26-ae35-6e5840d5c1a0@172.245.232.117:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=google.com&pbk=dl8h7j1NKxBL_p2leIy9SWKznB0VG5h8ftsb0hlLICk&sid=2404#%F0%9F%94%92VL-TCP-RLT%F0%9F%87%BA%F0%9F%87%B8US-172.245.232.117:443
