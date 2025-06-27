@@ -24,6 +24,8 @@ hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?obf
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@77.90.52.69:35000?obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=pichondan.com&insecure=0#%F0%9F%94%92HYSTERIA-UDP%F0%9F%87%A9%F0%9F%87%AADE-77.90.52.69:35000
 
+hysteria2://f869f5c5-18d0-4971-9d50-013ecef19daf@45.147.201.231:30076?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%F0%9F%94%92HYSTERIA-UDP%F0%9F%87%B7%F0%9F%87%BARU-45.147.201.231:30076
+
 
 ---------------------------------------
 vless://9d551054-67a9-4db0-8ec8-2eab05e9c655@sssss7.imamali.cfd:8443?security=none&type=tcp&headerType=http&path=%2F&host=dash.cloudflare.com#Art1
