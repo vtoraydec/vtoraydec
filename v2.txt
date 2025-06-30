@@ -28,13 +28,13 @@ hysteria2://f869f5c5-18d0-4971-9d50-013ecef19daf@45.147.201.231:30076?obfs=salam
 
 
 ---------------------------------------
-vless://9d551054-67a9-4db0-8ec8-2eab05e9c655@sssss7.imamali.cfd:8443?security=none&type=tcp&headerType=http&path=%2F&host=dash.cloudflare.com#Art1
+v-less://9d551054-67a9-4db0-8ec8-2eab05e9c655@sssss7.imamali.cfd:8443?security=none&type=tcp&headerType=http&path=%2F&host=dash.cloudflare.com#Art1
 
-vless://9d551054-67a9-4db0-8ec8-2eab05e9c655@tt3.imamali.cfd:8443?security=none&type=tcp&headerType=http&path=%2F&host=dash.cloudflare.com#Art2
+v-less://9d551054-67a9-4db0-8ec8-2eab05e9c655@tt3.imamali.cfd:8443?security=none&type=tcp&headerType=http&path=%2F&host=dash.cloudflare.com#Art2
 
-vless://9d551054-67a9-4db0-8ec8-2eab05e9c655@tt2.imamali.cfd:8443?security=none&type=tcp&headerType=http&path=%2F&host=dash.cloudflare.com#Art3
+v-less://9d551054-67a9-4db0-8ec8-2eab05e9c655@tt2.imamali.cfd:8443?security=none&type=tcp&headerType=http&path=%2F&host=dash.cloudflare.com#Art3
 
-vless://9d551054-67a9-4db0-8ec8-2eab05e9c655@ttusa.imamali.cfd:8443?security=none&type=tcp&headerType=http&path=%2F&host=dash.cloudflare.com#Art4
+v-less://9d551054-67a9-4db0-8ec8-2eab05e9c655@ttusa.imamali.cfd:8443?security=none&type=tcp&headerType=http&path=%2F&host=dash.cloudflare.com#Art4
 
 --------------
 vless://9783723b-b652-472e-aa72-d181621eef41@46.101.210.59:8629?type=tcp&security=reality&fp=firefox&sni=journalofbigdata.springeropen.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%94%92VL-TCP-RLT%F0%9F%87%A9%F0%9F%87%AADE-46.101.210.59:8629
@@ -68,3 +68,28 @@ vless://91a5d5b3-4b88-4359-aeec-e1532f535fd6@91.99.195.6:80?type=grpc&mode=gun&s
 
 
 vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@94.156.116.5:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw&sid=86#%F0%9F%94%92VL-TCP-RLT%F0%9F%87%AB%F0%9F%87%AEFI-94.156.116.5:443
+
+------------------
+
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?type=tcp&headerType=http&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none#X11
+
+vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?type=grpc&mode=gun&security=none#X12
+
+vless://6c8cc745-8719-48df-8b0d-647134e9823a@151.101.3.8:80?type=ws&host=tsvCY5W4AP61qVbo.net&path=/containers/fi&security=none#X7
+
+vless://3bebc077-0d92-4832-9ae4-c0820a673b9e@power.teampluss.ir:80?type=ws&host=Zilor.ir&path=/Pak91jqn-Mehskl.ir.shop.com?ed%3D2048&security=none#X1
+
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.145.219:443?type=tcp&headerType=http&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none#X5
+
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.122.102:443?type=tcp&headerType=http&host=zula.ir&security=none#X2
+
+vless://turboo-server@85.133.206.34:5090?type=tcp&headerType=http&host=tgju.org&security=none#X13
+
+vless://35e905b6-01d4-4697-8e1a-fce4cac9df75@speedtest.net:80?type=ws&host=testfast7.v2fast7.com&path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed%3D2048&security=none#X4
+
+
+vless://600eae54-5014-40a2-99f3-215ff340c26d@test.yoyohihi.com:57107?type=tcp&headerType=http&host=speedtest.net&security=none#X6
+
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?type=tcp&headerType=http&host=zula.ir&security=none#X8
+
+
