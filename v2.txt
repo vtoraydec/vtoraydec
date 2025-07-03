@@ -93,3 +93,9 @@ vless://600eae54-5014-40a2-99f3-215ff340c26d@test.yoyohihi.com:57107?type=tcp&he
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?type=tcp&headerType=http&host=zula.ir&security=none#X8
 
 
+vless://telegram---v2rayNGcloud----@pishgam.sdcards.ir:80?encryption=none&security=none&type=ws&host=amiri2.server-dev2.ir&path=%2F%40V2rayNGcloud---Telegram---v2rayNGcloud---%40V2rayNGcloud---Telegram---%40V2rayNGcloud---Telegram---%40V2rayNGcloud---%40V2rayNGcloud---Telegram---v2rayNGcloud---%40V2rayNGcloud---Telegram---%40V2rayNGcloud---Telegram---%40V2rayNGcloud%3Fed%3D2087#X21
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.47:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#X22
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?encryption=none&security=none&type=tcp&headerType=http&host=account.zula.ir%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN#X23
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir%2F%3FTELEGRAM%40VPN66#X24
+
+
