@@ -6,8 +6,6 @@
 
 
 vless://d92c81ef-cc4b-4362-82ed-b64a512ac44f@abol-all.divartehran.online:33856?type=tcp&security=none#Amir-Test5
-
-
 vless://5ed6fe01-3eed-4436-ae4d-a5570f1c9a96@gl.mosesmangeli107.xyz:443?path=%2FIncreasemagic&security=tls&encryption=none&host=magicalflightt.com&type=ws&sni=moz.com#EXCLJ5
 vless://257a2527-a19e-4a4c-a5b3-68ad48f906ff@mp-germany.mppro.top:2450?type=tcp&security=none&headerType=http&path=/&host=#EXCLAS4
 vless://72677ad5-af5b-41f2-bb00-bfdcbfbfbe0d@gl.mosesmangeli107.xyz:443?encryption=none&security=tls&sni=moz.com&fp=chrome&type=ws&host=el.makabook.pw&path=%2F#EXCL1
