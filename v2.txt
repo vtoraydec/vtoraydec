@@ -18,3 +18,10 @@ vless://6591afc4-1880-4909-c99c-d6cb5e4988a3@v7.gladsrv.com:35823?encryption=non
 vless://d72dc4a5-6523-4c1d-858c-d539ed62c519@digi.moosexplore.sbs:50326?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com#Moosexplorevip-mkw4whxl
 vless://5ed6fe01-3eed-4436-ae4d-a5570f1c9a96@gl.mosesmangeli107.xyz:443?path=%2FIncreasemagic&security=tls&encryption=none&host=magicalflightt.com&type=ws&sni=moz.com#J3Amir11.8.5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48173/?POST%20#PleaseUpdate
+
+vless://ab80613b-e04b-4af5-bad9-9ca5c448266e@compose.fast.hosting-ip.com:80?encryption=none&security=none&type=tcp&headerType=none#Main7
+vless://375805ec-e355-4e09-afe1-6dbc4da21f2e@91.99.166.88:8443?encryption=none&security=none&type=tcp&headerType=http&host=skyroom.online#Main8
+vless://ipcloudflaretamiz@test.fast.hosting-ip.com:80?encryption=none&security=none&type=tcp&headerType=none#Main9
+vless://a707317c-2236-41c0-9c00-63e866401b25@server2.ultra-irancell.com:80?encryption=none&security=none&type=tcp&headerType=none#Main10
+vless://cc4eb09f-b399-43b6-b6c4-5bcc856d38de@151.101.3.8:80?encryption=none&security=none&type=tcp&headerType=none#Main11
+
