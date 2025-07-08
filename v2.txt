@@ -17,4 +17,4 @@ vless://72677ad5-af5b-41f2-bb00-bfdcbfbfbe0d@gl.mosesmangeli107.xyz:443?encrypti
 vless://6591afc4-1880-4909-c99c-d6cb5e4988a3@v7.gladsrv.com:35823?encryption=none&security=none&type=ws&path=%2F#EXCLJ2
 vless://d72dc4a5-6523-4c1d-858c-d539ed62c519@digi.moosexplore.sbs:50326?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com#Moosexplorevip-mkw4whxl
 vless://5ed6fe01-3eed-4436-ae4d-a5570f1c9a96@gl.mosesmangeli107.xyz:443?path=%2FIncreasemagic&security=tls&encryption=none&host=magicalflightt.com&type=ws&sni=moz.com#J3Amir11.8.5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48173/?POST%20#Updated
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48173/?POST%20#PleaseUpdate
