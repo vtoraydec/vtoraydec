@@ -6,10 +6,8 @@
 
 
 vless://d92c81ef-cc4b-4362-82ed-b64a512ac44f@abol-all.divartehran.online:33856?type=tcp&security=none#Amir-Test5
-vless://9d551054-67a9-4db0-8ec8-2eab05e9c655@tt3.imamali.cfd:8443?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#Tunnel1%2861Roz%29%2849.62GB%29%F0%9F%87%AB%F0%9F%87%AE%28artor59-9d551054%29
-vless://9d551054-67a9-4db0-8ec8-2eab05e9c655@tt2.imamali.cfd:8443?encryption=none&security=none&type=tcp&headerType=http&host=www.speedtest.net#Tunnel%F0%9F%87%A9%F0%9F%87%AA2%28artor59-9d551054%29
-vless://9d551054-67a9-4db0-8ec8-2eab05e9c655@cirannnn.hilrelms.cfd:2083?encryption=none&security=tls&sni=zirannnn.hilrelms.cfd&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=zirannnn.hilrelms.cfd#Tunnel%F0%9F%87%AB%F0%9F%87%AEBAK3%28artor59-9d551054%29
-vless://9d551054-67a9-4db0-8ec8-2eab05e9c655@teng.imamali.cfd:8443?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#Tunnel%F0%9F%87%AC%F0%9F%87%A74%28artor59-9d551054%29
+
+
 vless://5ed6fe01-3eed-4436-ae4d-a5570f1c9a96@gl.mosesmangeli107.xyz:443?path=%2FIncreasemagic&security=tls&encryption=none&host=magicalflightt.com&type=ws&sni=moz.com#EXCLJ5
 vless://257a2527-a19e-4a4c-a5b3-68ad48f906ff@mp-germany.mppro.top:2450?type=tcp&security=none&headerType=http&path=/&host=#EXCLAS4
 vless://72677ad5-af5b-41f2-bb00-bfdcbfbfbe0d@gl.mosesmangeli107.xyz:443?encryption=none&security=tls&sni=moz.com&fp=chrome&type=ws&host=el.makabook.pw&path=%2F#EXCL1
