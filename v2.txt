@@ -74,4 +74,6 @@ vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.200.210:443?type=tcp&headerT
 
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?type=ws&host=NGINX.NSCl.IR&path=/assets&security=tls&fp=chrome&sni=NGINX.NSCl.IR#q_001
 
+vless://fd0cdd44-2361-11f0-9970-45e1d80c4039@62.60.233.250:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=images.apple.com&fp=chrome&pbk=MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw&sid=4476a3&spx=%2Fn2XRsQpv11&type=tcp&headerType=none#Sin1
+vless://8058f619-5305-4c4c-b764-509685f68c91@prod2-hge-cloud01-hybrid-t01.cyberscaler.com:18616?encryption=none&security=none&type=tcp&headerType=http&host=www.speedtest.net#Sin2
 
