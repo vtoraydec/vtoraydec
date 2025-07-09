@@ -4,7 +4,18 @@
 #support-url: https://vtorayDEC242.tiiny.site/
 #profile-web-page-url: https://vtorayJan25.tiiny.site/
 
+
+
+
 vless://6e47045d-d894-4df2-a215-07729c42189a@151.101.3.8:80?encryption=none&security=none&type=tcp&headerType=none#آپدیت_کنید
+
+
+vless://3e9865-80c3-4ba-891-597139c37bdc@91.99.129.82:443?encryption=none&security=none&type=tcp&headerType=http&host=exo.ir#FREA1
+vless://2w53e9865-80c3-4ba-891-597139c37bdc@91.99.129.82:443?encryption=none&security=none&type=tcp&headerType=http&host=exo.ir#FREA2
+
+
+
+
 vless://592a2802-d91e-4995-be95-5e85f2374b81@mtn.venzo.com.tr:80?encryption=none&security=none&type=httpupgrade&host=www.sPeedtest.net.ElectrOluxxv.iR.&path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048#Main2
 vless://592a2802-d91e-4995-be95-5e85f2374b81@104.18.26.90:80?encryption=none&security=none&type=httpupgrade&host=www.sPeedtest.net.ElectrOluxxv.iR.&path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048#Main3
 vless://ab80613b-e04b-4af5-bad9-9ca5c448266e@compose.fast.hosting-ip.com:80?encryption=none&security=none&type=tcp&headerType=none#Main4
