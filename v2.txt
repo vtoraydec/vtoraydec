@@ -8,6 +8,7 @@
 
 
 vless://6e47045d-d894-4df2-a215-07729c42189a@151.101.3.8:80?encryption=none&security=none&type=tcp&headerType=none#آپدیت_کنید
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000/?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0#Gh1
 
 vless://a0a3e34d-87e4-4ff3-b04a-875c85325d62@it.panelmarzban.com:3037?encryption=none&security=reality&sni=refersion.com&fp=firefox&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&type=tcp&headerType=none#Sd1
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlNkMiIsDQogICJhZGQiOiAidmlwMi5lcnRlYmF0Z29vc3Rhci5jb20iLA0KICAicG9ydCI6ICI5MDkwIiwNCiAgImlkIjogIjMxYThlMjY4LTUxZjAtMjMyMS0wMWRiLTE4MmI3NDkwN2Y1ZCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAiaHR0cCIsDQogICJob3N0IjogInNwZWVkdGVzdC5uZXQiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
