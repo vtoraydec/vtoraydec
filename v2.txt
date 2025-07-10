@@ -5,6 +5,14 @@
 #profile-web-page-url: https://vtorayJan25.tiiny.site/
 
 
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.18.26.90:443?type=ws&host=52275ZvTv4.V2pLuSmLm.OrG&path=/&security=tls&sni=52275ZvTv4.V2pLuSmLm.OrG#VPN-DE1
+
+
+
+
+
+
+
 vless://e5013a1a-de5d-478b-8961-68721f79e285@104.18.26.90:2096?type=ws&host=638874929583850409.zagreb-prx-dnraaad.info&path=/pvjoniws&security=tls&sni=638874929583850409.zagreb-prx-dnraaad.info#XPX1
 
 
