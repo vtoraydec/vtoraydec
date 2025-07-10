@@ -4,7 +4,7 @@
 #support-url: https://vtorayDEC242.tiiny.site/
 #profile-web-page-url: https://vtorayJan25.tiiny.site/
 ----------------
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300/?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0#q_005
+-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300/?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0#q_005
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#OldZVPNserver4%28vpn_zvpn%29
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000/?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0#Gh1
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjAxLXBhcnNlNjA3IiwNCiAgImFkZCI6ICJoMS5wYXJzZW1vYmlsZS5vbmxpbmUiLA0KICAicG9ydCI6ICIyMTkzMyIsDQogICJpZCI6ICJlZjEyYTMzMi0zMmEyLTRlZGYtOWU5Yy04ODdkMjVlZDg4ODYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogImh0dHAiLA0KICAiaG9zdCI6ICJ0ZWxld2ViaW9uLmNvbSIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
