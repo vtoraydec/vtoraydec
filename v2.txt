@@ -1,4 +1,4 @@
-#profile-title:Expired
+#profile-title:SubV2
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://vtorayDEC242.tiiny.site/
