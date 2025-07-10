@@ -34,7 +34,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh3
 
 
 
-vless://e5013a1a-de5d-478b-8961-68721f79e285@104.18.26.90:2096?type=ws&host=638874929583850409.zagreb-prx-dnraaad.info&path=/pvjoniws&security=tls&sni=638874929583850409.zagreb-prx-dnraaad.info#XPX2
+
 
 
 
