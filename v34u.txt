@@ -8,12 +8,12 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#OldZVPNserver4%28vpn_zvpn%29
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000/?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0#Gh1
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjAxLXBhcnNlNjA3IiwNCiAgImFkZCI6ICJoMS5wYXJzZW1vYmlsZS5vbmxpbmUiLA0KICAicG9ydCI6ICIyMTkzMyIsDQogICJpZCI6ICJlZjEyYTMzMi0zMmEyLTRlZGYtOWU5Yy04ODdkMjVlZDg4ODYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogImh0dHAiLA0KICAiaG9zdCI6ICJ0ZWxld2ViaW9uLmNvbSIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-vless://64cf04ca-3a8c-4a74-958d-ba1a055e1570@188.114.96.3:2087?encryption=none&security=tls&sni=Login.mobile7seven.ir&alpn=h2%2Chttp%2F1.1&type=httpupgrade&host=Login.mobile7seven.ir&path=%2F%40Vpnv2rayspeed%2Cvpnv2rayspeedbot%2Cturk%3Fed%3D2048#%F0%9F%9A%80%2002
-vless://64cf04ca-3a8c-4a74-958d-ba1a055e1570@mz.mobile7seven.ir:8443?encryption=none&security=reality&sni=lovelive-anime.jp&fp=chrome&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=lovelive&mode=gun#%F0%9F%9A%80%2003Reality
-vless://64cf04ca-3a8c-4a74-958d-ba1a055e1570@mz.mobile7seven.ir:8443?encryption=none&security=none&type=ws&path=%2F#04%E2%9C%85
-trojan://jZazEDqDqdwbRc083H3a8w@mz.mobile7seven.ir:2096?security=tls&sni=login.mobile7seven.ir&type=ws&host=mz.mobile7seven.ir&path=%2Fseven%3Fed%3D2048#%F0%9F%9A%80%2005
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpER2p6V0JlU003dEZYeXlpUnQ1ZjFn@mz.mobile7seven.ir:1080#%F0%9F%9A%80%2006End
-vless://c9df8e99-71f7-22b5-8f02-428e2d3ec5be@l79.magicnetwork.info:443?encryption=none&security=none&type=tcp&headerType=http&host=divarcdn.com#07GHF
+-vless://64cf04ca-3a8c-4a74-958d-ba1a055e1570@188.114.96.3:2087?encryption=none&security=tls&sni=Login.mobile7seven.ir&alpn=h2%2Chttp%2F1.1&type=httpupgrade&host=Login.mobile7seven.ir&path=%2F%40Vpnv2rayspeed%2Cvpnv2rayspeedbot%2Cturk%3Fed%3D2048#%F0%9F%9A%80%2002
+-vless://64cf04ca-3a8c-4a74-958d-ba1a055e1570@mz.mobile7seven.ir:8443?encryption=none&security=reality&sni=lovelive-anime.jp&fp=chrome&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=lovelive&mode=gun#%F0%9F%9A%80%2003Reality
+-vless://64cf04ca-3a8c-4a74-958d-ba1a055e1570@mz.mobile7seven.ir:8443?encryption=none&security=none&type=ws&path=%2F#04%E2%9C%85
+-trojan://jZazEDqDqdwbRc083H3a8w@mz.mobile7seven.ir:2096?security=tls&sni=login.mobile7seven.ir&type=ws&host=mz.mobile7seven.ir&path=%2Fseven%3Fed%3D2048#%F0%9F%9A%80%2005
+-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpER2p6V0JlU003dEZYeXlpUnQ1ZjFn@mz.mobile7seven.ir:1080#%F0%9F%9A%80%2006End
+-vless://c9df8e99-71f7-22b5-8f02-428e2d3ec5be@l79.magicnetwork.info:443?encryption=none&security=none&type=tcp&headerType=http&host=divarcdn.com#07GHF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172#Server-1
 hysteria2://@JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000/?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#%F0%9F%94%92HYSTERIA-UDP%F0%9F%87%B3%F0%9F%87%B1NL-206.71.158.40%3A35000
 hysteria2://@JavidnamanIran-Javid-SHAH-KingRezaPahlavi@77.90.52.69:35000/?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#%F0%9F%94%92HYSTERIA-UDP%F0%9F%87%A9%F0%9F%87%AADE-77.90.52.69%3A35000
@@ -36,4 +36,3 @@ vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@nl.cosmonet.online:443?encryption=n
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.200.210:443?encryption=none&security=tls&sni=147135004002.sec20org.com&fp=chrome&type=tcp&headerType=none#q_020
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?encryption=none&security=tls&sni=NGINX.NSCl.IR&fp=chrome&type=ws&host=NGINX.NSCl.IR&path=%2Fassets#q_001
 -hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400/?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0#q_097
-
