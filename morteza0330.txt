@@ -6,11 +6,11 @@
 ----------------
 
 
-vless://c569f2af-b019-4d61-a4a3-96c414c77dea@91.107.180.100:45489?type=tcp&headerType=http&host=speedtest.net&security=none#XDE1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443?type=tcp#%E2%9C%85v2ray_config1
 
-vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?type=ws&host=simorgh.hpcode.ir&path=/Javid-SHAH-KingRezaPahlavi/?ed%3D2560&security=tls&fp=firefox&sni=simorgh.hpcode.ir#XOK1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443?type=tcp#%E2%9C%85v2ray_config2
 
-vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?type=ws&host=simorgh.hpcode.ir&path=/Javid-SHAH-KingRezaPahlavi/?ed%3D@vpnserverrr_vpnserverrr_vpnserverrr&security=tls&fp=firefox&sni=simorgh.hpcode.ir#XNLOK
+vless://48a2c4cb-b4ce-427d-8860-a512b1f2b849@tel.v2angbot.fast.hosting-ip.com:80?type=xhttp&mode=auto&host=golaabi.global.ssl.fastly.net&path=/&security=none#%E2%9C%85v2ray_config3
 
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?type=ws&host=azadnet-7py.pages.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=azadnet-7py.pages.dev#XOK2
 
@@ -19,4 +19,7 @@ vless://80d1fe59-60f4-4272-a280-820e1ef0a754@69.84.182.2:443?type=ws&host=tfs733
 vless://80d1fe59-60f4-4272-a280-820e1ef0a754@104.18.26.90:443?type=ws&host=tfs733.pages.dev&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed%3D2048&security=tls&sni=pages.dev#XTUS3
 
 vless://80d1fe59-60f4-4272-a280-820e1ef0a754@104.18.26.90:443?type=ws&host=tfs733.pages.dev&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed%3D2048&security=tls&sni=pages.dev#XV2rayUS2
+
+
+
 
