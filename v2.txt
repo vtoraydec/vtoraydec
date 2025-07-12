@@ -4,16 +4,10 @@
 #support-url: https://vtorayDEC242.tiiny.site/
 #profile-web-page-url: https://vtorayJan25.tiiny.site/
 ----------
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&path=%2F#M1
-vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80?encryption=none&security=none&type=ws&host=onlytesla1.xz027.com&path=%2F#EX1
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@160.79.104.251:8880?encryption=none&security=none&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF#K6
+vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?encryption=none&security=none&type=tcp&headerType=http&host=bmw.com#OK4
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@5.10.214.251:8880?encryption=none&security=none&sni=cf.d3z.netتعداد&type=ws&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed#V3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@peweza2.digipedia.shop:443#J1
-vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?encryption=none&security=tls&sni=azadnet-7py.pages.dev&fp=randomized&type=ws&host=azadnet-7py.pages.dev&path=%2F%3Fed%3D2560#XOK2
-vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@198.62.62.4:2096?encryption=none&security=tls&sni=638878462229596707.ahvaz-prx-dnraaad.info&type=ws&host=638878462229596707.ahvaz-prx-dnraaad.info&path=%2Fjmgjhhws#K10
-vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?encryption=none&security=tls&sni=simorgh.hpcode.ir&fp=firefox&type=ws&host=simorgh.hpcode.ir&path=%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560%2F%3FJOKERRVPNTELEGRAM----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN#OK1
-vless://a0a3e34d-87e4-4ff3-b04a-875c85325d62@it.panelmarzban.com:3037?encryption=none&security=reality&sni=refersion.com&fp=firefox&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&type=tcp&headerType=none#N2
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?encryption=none&security=tls&sni=azadnet-7py.pages.dev&fp=randomized&type=ws&host=azadnet-7py.pages.dev&path=%2Fazadnet-7py.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless#J2
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@5.10.214.251:8880?encryption=none&security=none&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed#V1
-vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?encryption=none&security=none&type=tcp&headerType=http&host=bmw.com#OK4
-vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?encryption=none&security=tls&sni=ensHOLP-91s.pageS.DEv&fp=randomized&type=ws&host=ensHOLP-91s.pageS.DEv&path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560#N1
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&path=%2F#M1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@peweza2.digipedia.shop:443#J1
