@@ -4,19 +4,21 @@
 #support-url: https://vtorayDEC242.tiiny.site/
 #profile-web-page-url: https://vtorayJan25.tiiny.site/
 ----------
-trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&sni=journalofbigdata.springeropen.com&fp=random&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&sid=109cb5faeb6b&spx=%2FyethePcHjaf%2FBIA_CHANEL%40JOKERRVPN&type=tcp&headerType=none&host=%2FTELEGRAM----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN#A11
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&path=%2F#M1
-vless://f54940c3-4e20-4d84-97f0-7ead2958fec5@ab.iranlit.ir:14569?encryption=none&security=none&type=ws&path=%2Fwww.fastvpn.com.live.skornorth.com.zula.ir%3Fed%3D2048#A5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@peweza2.digipedia.shop:443#J1
-vless://f54940c3-4e20-4d84-97f0-7ead2958fec5@v2.vipshopnew.shop:8000?encryption=none&security=none&type=ws&path=%2F#A4
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@5.10.214.251:8880?encryption=none&security=none&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed#V1
-vless://f54940c3-4e20-4d84-97f0-7ead2958fec5@v9.vipfast1.shop:8000?encryption=none&security=none&type=ws&path=%2F#A3
-vless://f54940c3-4e20-4d84-97f0-7ead2958fec5@auir.iranlit.ir:8000?encryption=none&security=none&type=ws&path=%2F#A7
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&security=tls&sni=IyFpLkXk10.jOoLaJoOlA.OrG&type=ws&host=IyFpLkXk10.jOoLaJoOlA.OrG&path=%2F#A12
-vless://f54940c3-4e20-4d84-97f0-7ead2958fec5@z1.vipshop2.top:8000?encryption=none&security=none&type=ws&path=%2F#A9
-vless://f54940c3-4e20-4d84-97f0-7ead2958fec5@s1tu2.vipshopkar9.shop:8000?encryption=none&security=none&type=ws&path=%2F#A2
+vless://05471638-53a5-4033-8d47-3716f2e7ddb9@subseven.iranfreedomserver.com:20340?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#V17
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?encryption=none&security=tls&sni=azadnet-7py.pages.dev&fp=randomized&type=ws&host=azadnet-7py.pages.dev&path=%2Fazadnet-7py.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless#J2
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@5.10.214.251:8880?encryption=none&security=none&sni=cf.d3z.netتعداد&type=ws&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed#V3
+trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&sni=journalofbigdata.springeropen.com&fp=random&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&sid=109cb5faeb6b&spx=%2FyethePcHjaf%2FBIA_CHANEL%40JOKERRVPN&type=tcp&headerType=none&host=%2FTELEGRAM----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN#A11
+vless://f54940c3-4e20-4d84-97f0-7ead2958fec5@s1tu2.vipshopkar9.shop:8000?encryption=none&security=none&type=ws&path=%2F#A2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@131.145.33.92:443#V15
+vless://f54940c3-4e20-4d84-97f0-7ead2958fec5@v9.vipfast1.shop:8000?encryption=none&security=none&type=ws&path=%2F#A3
 vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80?encryption=none&security=none&type=ws&host=onlytesla1.xz027.com&path=%2F#A8
-vless://f54940c3-4e20-4d84-97f0-7ead2958fec5@bd.iranlit.ir:14569?encryption=none&security=none&type=ws&path=%2Fwww.fastvpn.com.live.skornorth.com.zula.ir%3Fed%3D2048#A10
+vless://f54940c3-4e20-4d84-97f0-7ead2958fec5@auir.iranlit.ir:8000?encryption=none&security=none&type=ws&path=%2F#A7
+vless://f54940c3-4e20-4d84-97f0-7ead2958fec5@z1.vipshop2.top:8000?encryption=none&security=none&type=ws&path=%2F#A9
+vless://f54940c3-4e20-4d84-97f0-7ead2958fec5@v2.vipshopnew.shop:8000?encryption=none&security=none&type=ws&path=%2F#A4
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&security=tls&sni=IyFpLkXk10.jOoLaJoOlA.OrG&type=ws&host=IyFpLkXk10.jOoLaJoOlA.OrG&path=%2F#A12
+vless://ca1e2429-a6ed-4c9d-9ea3-985be25e2dad@91.107.180.100:45489?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#V18
+vless://f54940c3-4e20-4d84-97f0-7ead2958fec5@ab.iranlit.ir:14569?encryption=none&security=none&type=ws&path=%2Fwww.fastvpn.com.live.skornorth.com.zula.ir%3Fed%3D2048#A5
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@160.79.104.251:8880?encryption=none&security=none&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF#K6
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@5.10.214.251:8880?encryption=none&security=none&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed#V1
+vless://f54940c3-4e20-4d84-97f0-7ead2958fec5@bd.iranlit.ir:14569?encryption=none&security=none&type=ws&path=%2Fwww.fastvpn.com.live.skornorth.com.zula.ir%3Fed%3D2048#V16
