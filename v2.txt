@@ -5,7 +5,6 @@
 #profile-web-page-url: https://vtorayJan25.tiiny.site/
 
 vless://9377cb84-ec33-4f9e-9c89-dfc2db064ca1@91.107.180.100:45489?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#Ts1%F0%9F%87%A9%F0%9F%87%AA
-vless://48a2c4cb-b4ce-427d-8860-a512b1f2b849@tel.v2angbot.fast.hosting-ip.com:80?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8D%83%F0%9D%90%89%F0%9D%90%8E%F0%9D%90%8D3
 vless://906770b2-698a-41d2-b340-37c6c17e260d@5.10.214.254:443?encryption=none&security=tls&sni=AdS.tHiSiSvdS.Com.&fp=randomized&type=ws&host=AdS.tHiSiSvdS.Com.&path=%2F#YouTube%20NO%20ADS%20%28MCI%29
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@start.adsplustnet.com:80?encryption=none&security=none&sni=epgs9l0n.salamtrip.ir&alpn=http%2F1.1&type=ws&host=d1.hetzner.com&path=%2Ftest%3Dtrue#Vip1
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?encryption=none&security=tls&sni=azadnet-7py.pages.dev&fp=randomized&type=ws&host=azadnet-7py.pages.dev&path=%2F%3Fed%3D2560#XOK2
