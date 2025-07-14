@@ -4,31 +4,8 @@
 #support-url: https://vtorayDEC242.tiiny.site/
 #profile-web-page-url: https://vtorayJan25.tiiny.site/
 ----------
-vless://efddd3aa-e132-4dca-8480-50e0b111a995@pq-japan4.09vpn.com:8443?encryption=none&security=tls&type=ws&path=%2Fvless%2F#Chili🌶️6472912061
-vless://43323633-7f7b-4b6e-afe6-ccbd65345a01@pq.brazil2.09vpn.com:8443?encryption=none&security=tls&type=ws&path=%2Fvless%2F#Chili8
-vless://c4eb6a21-9b1e-45b2-b63b-bc6dd2e7b9fa@pq-unitedstates3.09vpn.com:8443?encryption=none&security=tls&type=ws&path=%2Fvless%2F#Chili🌶️4401670061
-vless://c4eb6a21-9b1e-45b2-b63b-bc6dd2e7b9fa@pq-unitedstates3.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#Chili🌶️4401670061
-vless://329b525d-c123-4de9-9023-c0dd5d3b2602@ov-poland2.09vpn.com:8443?encryption=none&security=tls&type=ws&path=%2Fvless%2F#Chili4
-vless://8530b501-4b18-4198-90c1-b24dcb8ac351@pq.chile1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=%2Fvless%2F#Chili2
-vless://a79f6d58-ec71-4cb2-acfb-8f8b67b444a8@pq.brazil2.09vpn.com:8443?encryption=none&security=tls&type=ws&path=%2Fvless%2F#Chili🌶️8448302031
-vless://4bb2579a-f87c-40b8-82c5-34d3e7512dfd@ov-poland2.09vpn.com:8443?encryption=none&security=tls&type=ws&path=%2Fvless%2F#Chili🌶️4191105242
-vless://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?encryption=none&security=tls&sni=pq.chile1.09vpn.com&type=ws&path=%2Fvless%2F#Chili1
-vless://411dd5ba-f8f8-4997-841d-52f4e5379a29@ov-poland2.09vpn.com:8443?encryption=none&security=tls&type=ws&path=%2Fvless%2F#Chili7
-vless://416f7f6f-cd91-4951-959d-9295b907103a@pq-japan4.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#Chili🌶️5594855566
-vless://416f7f6f-cd91-4951-959d-9295b907103a@pq-japan4.09vpn.com:8443?encryption=none&security=tls&type=ws&path=%2Fvless%2F#Chili🌶️5594855566
-vless://4bb2579a-f87c-40b8-82c5-34d3e7512dfd@ov-poland2.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#Chili🌶️4191105242
-vless://dbe75c85-dc06-482d-9288-754e82596c25@ul-mexico1.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#Chili🌶️3824096372
-vless://7afe656e-2772-43d9-a0ee-6d44a9d83cd5@pq.chile1.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#Chili🌶️2946410253
-vless://dbe75c85-dc06-482d-9288-754e82596c25@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=%2Fvless%2F#Chili🌶️3824096372
-vless://0ee308df-bf85-4327-8de4-b7b73e1b3002@pq-unitedstates3.09vpn.com:8443?encryption=none&security=tls&type=ws&path=%2Fvless%2F#Chili🌶️16947634
-vless://7afe656e-2772-43d9-a0ee-6d44a9d83cd5@pq.chile1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=%2Fvless%2F#Chili🌶️2946410253
-vless://e4c619ce-88bb-4670-aace-43292673f70c@pq-japan2.09vpn.com:8443?encryption=none&security=tls&type=ws&path=%2Fvless%2F#Chili🌶️3989620042
-vless://b91a959d-c971-45a9-bbe9-865030faa19c@ul-mexico1.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#Chili🌶️3838064802
-vless://62a86b4c-44c1-4de7-b2c9-364b7e4342a6@pq.brazil2.09vpn.com:8443?encryption=none&security=tls&type=ws&path=%2Fvless%2F#Chili3
-vless://e8c12a48-0877-4ac2-8f7a-7d0a1665bf0b@pq.brazil2.09vpn.com:8443?encryption=none&security=tls&type=ws&path=%2Fvless%2F#Chili5
-vless://7fef81b0-ede8-4899-809d-0ddf5b6fb45b@ul-japan1.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#Chili🌶️8897491678
-vless://47f3141f-0630-43c0-be46-2a0b32b3e4bb@pq.brazil2.09vpn.com:8443?encryption=none&security=tls&type=ws&path=%2Fvless%2F#Chili9
-vless://7fef81b0-ede8-4899-809d-0ddf5b6fb45b@ul-japan1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=%2Fvless%2F#Chili🌶️8897491678
-vless://e4c619ce-88bb-4670-aace-43292673f70c@pq-japan2.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#Chili🌶️3989620042
-vless://0ee308df-bf85-4327-8de4-b7b73e1b3002@pq-unitedstates3.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#Chili🌶️16947634
-vless://b91a959d-c971-45a9-bbe9-865030faa19c@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=%2Fvless%2F#Chili🌶️3838064802
+vless://bec44ac3-a662-4179-a9dd-2aa881706dde@157.173.127.224:443?encryption=none&security=reality&sni=analytics.google.com&fp=chrome&pbk=Ajk0QudeMVQocN88OG14PpsxparFuRJlvqzXDlW-gyQ&sid=aba7bc9a&type=tcp&headerType=none#Sat1
+vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.26:443?encryption=none&security=tls&sni=crolindd.dearcarlotta.cloudns.org&alpn=http%2F1.1&fp=random&type=ws&host=crolindd.dearcarlotta.cloudns.org&path=%2Fproxyip%3Dcitlali.shorekeeper.ir%2F%3FJoin_Bade_Channel%40JOKERRVPN#Sat2
+vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.26:443?encryption=none&security=tls&sni=crolindd.dearcarlotta.cloudns.org&alpn=http%2F1.1&fp=random&type=ws&host=crolindd.dearcarlotta.cloudns.org&path=%2Fproxyip%3Dcitlali.shorekeeper.ir#Sat3
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?encryption=none&security=tls&sni=simorgh.hpcode.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=simorgh.hpcode.ir&path=%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560#Sat4
+vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?encryption=none&security=tls&sni=vless8-ekh.pages.dev&alpn=h3&fp=random&type=ws&host=vless8-ekh.pages.dev&path=%2F%3Fed%3D2560#Sat5
