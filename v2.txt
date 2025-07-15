@@ -4,4 +4,4 @@
 #support-url: https://vtorayDEC242.tiiny.site/
 #profile-web-page-url: https://vtorayJan25.tiiny.site/
 ----------
-trojan://DiSaBlEd@1.1.1.1:443?security=tls&sni=myvpst.cfd#🚫Expired|MultiLogin
+trojan://DiSaBlEd@1.1.1.1:443?security=none&sni=multi.log#🚫Expired|MultiLogin
