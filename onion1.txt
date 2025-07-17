@@ -1,6 +1,10 @@
 #profile-title:Onion1_V2ray
 #profile-update-interval: 1
 --------------------------
+vless://d1ac9028-8ee1-d564-16c8-f3c198eb7b7b@n1.magicnetwork.info:443?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#Chili1
+
+vless://e378e23f-c7cf-47cb-bebe-9f2126e16210@de.giftabrstore.com:2168?type=tcp&headerType=http&host=virgool.io&path=/&security=none#15-2236#Chili0
+
 vless://4eff2388-2092-4b0a-aa74-0e464889ffaf@109.73.206.90:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&type=tcp&headerType=none#%F0%9F%8C%B6%EF%B8%8F1
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.170.80:28495?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392&type=tcp&headerType=none#%F0%9F%8C%B6%EF%B8%8F2
 vless://bec44ac3-a662-4179-a9dd-2aa881706dde@157.173.127.224:443?encryption=none&security=reality&sni=analytics.google.com&fp=chrome&pbk=Ajk0QudeMVQocN88OG14PpsxparFuRJlvqzXDlW-gyQ&sid=aba7bc9a&type=tcp&headerType=none#%F0%9F%8C%B6%EF%B8%8F3
