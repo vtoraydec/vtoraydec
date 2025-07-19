@@ -1,0 +1,7 @@
+#profile-title:Chili VPN
+#profile-update-interval: 1
+#subscription-userinfo: upload=100; download=100; total=2000; expire=1671815872
+#support-url: https://chili.liveblog365.com/
+#profile-web-page-url: https://chili.liveblog365.com
+----------
+vless://c43ffb5f-2343-4313-8ee8-4b40b4bd2c14@1.1.1.1:443?encryption=none&security=none&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&type=tcp&headerType=none#%F0%9F%9A%ABUpdateRequired%7CChiliVPN
