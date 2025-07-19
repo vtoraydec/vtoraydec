@@ -1,6 +1,6 @@
 #profile-title:Chili VPN
 #profile-update-interval: 1
-#subscription-userinfo: upload=536870912000; download=536870912000; total=1073741824000
+#subscription-userinfo: upload=536870912000; download=536870912000; total=1073741824000; expire=1752929397  
 #support-url: https://chili.liveblog365.com/
 #profile-web-page-url: https://chili.liveblog365.com
 ----------
