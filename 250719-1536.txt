@@ -1,13 +1,7 @@
-#profile-title:Onion1_V2ray
+#profile-title:Chili VPN
 #profile-update-interval: 1
---------------------------
-vless://d1ac9028-8ee1-d564-16c8-f3c198eb7b7b@n1.magicnetwork.info:443?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#Chili1
-
-vless://e378e23f-c7cf-47cb-bebe-9f2126e16210@de.giftabrstore.com:2168?type=tcp&headerType=http&host=virgool.io&path=/&security=none#Chili0
-
-vless://4eff2388-2092-4b0a-aa74-0e464889ffaf@109.73.206.90:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&type=tcp&headerType=none#%F0%9F%8C%B6%EF%B8%8F1
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.170.80:28495?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392&type=tcp&headerType=none#%F0%9F%8C%B6%EF%B8%8F2
-vless://bec44ac3-a662-4179-a9dd-2aa881706dde@157.173.127.224:443?encryption=none&security=reality&sni=analytics.google.com&fp=chrome&pbk=Ajk0QudeMVQocN88OG14PpsxparFuRJlvqzXDlW-gyQ&sid=aba7bc9a&type=tcp&headerType=none#%F0%9F%8C%B6%EF%B8%8F3
-vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?encryption=none&security=tls&sni=simorgh.hpcode.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=simorgh.hpcode.ir&path=%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560#%F0%9F%8C%B6%EF%B8%8F4
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?encryption=none&security=tls&sni=vless8-ekh.pages.dev&alpn=h3&fp=random&type=ws&host=vless8-ekh.pages.dev&path=%2F%3Fed%3D2560#%F0%9F%8C%B6%EF%B8%8F5
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=KtT44fPtXh.DaStAtSaRd.OrG&type=ws&host=KtT44fPtXh.DaStAtSaRd.OrG&path=%2F#%F0%9F%8C%B6%EF%B8%8F6
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://chili.liveblog365.com/
+#profile-web-page-url: https://chili.liveblog365.com
+----------
+vless://c43ffb5f-2343-4313-8ee8-4b40b4bd2c14@1.1.1.1:443?encryption=none&security=none&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&type=tcp&headerType=none#%F0%9F%9A%ABUpdateRequired%7CChiliVPN
