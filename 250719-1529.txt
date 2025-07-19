@@ -1,0 +1,8 @@
+#profile-title:Onion1_V2ray
+#profile-update-interval: 1
+--------------------------
+vless://d1ac9028-8ee1-d564-16c8-f3c198eb7b7b@n1.magicnetwork.info:443?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#Chili1
+
+vless://e378e23f-c7cf-47cb-bebe-9f2126e16210@de.giftabrstore.com:2168?type=tcp&headerType=http&host=virgool.io&path=/&security=none#Chili0
+
+vless://4eff2388-2092-4b0a-aa74-0e464889ffaf@109.73.206.90:443?
