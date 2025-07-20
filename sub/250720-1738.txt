@@ -1,7 +1,7 @@
-#profile-title:ChiliVPN
+#profile-title:Chili VPN
 #profile-update-interval: 1
---------------------------
-vmess://ewogICAgImhvc3QiOiAiIiwKICAgICJzY3kiOiAiYXV0byIsCiAgICAicHMiOiAiQ2hpbGnwn4y277iPVlBOLTQ0ODE1NTY2IiwKICAgICJwb3J0IjogIjQyNjg0IiwKICAgICJuZXQiOiAidGNwIiwKICAgICJwYXRoIjogIiIsCiAgICAiaWQiOiAiYzRiZDllYmEtOGFlYS00ZDVlLWEyZWUtYjVkZTY1YWMxNGUxIiwKICAgICJhZGQiOiAicGFuZWwxLmlweWFyLm9yZyIKfQ==
-vless://b9b8cf4c-29a3-4288-9c6c-8811dc37beec@188.114.96.11:2087/?type=ws&host=xLZ767v2Ray.PAgEs.dev&path=/5z5wdmesbon0p3kk?ed%3D2560&security=tls&fp=chrome&sni=xLZ767v2Ray.PAgEs.dev#Chili🌶️VPN-24586234
-vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@5.75.198.47:443/?type=tcp&security=reality&fp=chrome&sni=vpn_proxy_channel_vpn_proxy_channel.hohod.ir&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&sid=974a74bf#Chili🌶️VPN-29629631
-vless://0b9ee474-19f6-4d7f-9281-96f239e6cebc@104.248.136.27:28338/?type=grpc&mode=gun&serviceName=Telegram:@FergalVpnMod&security=reality&fp=chrome&sni=cloudflare.com&pbk=MJwVQS7Qs5U_FYJn_osHZJSQ9ioxZRHC2HDPVwt7nmw&sid=9ecc4615ce#Chili🌶️VPN-18271893
+#subscription-userinfo: upload=536870912000; download=536870912000; total=1073741824000; expire=1752929397
+#support-url: https://chili.liveblog365.com/ 
+#profile-web-page-url: https://chili.liveblog365.com 
+----------
+vless://c43ffb5f-2343-4313-8ee8-4b40b4bd2c14@1.1.1.1:443?encryption=none&security=none&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&type=tcp&headerType=none#%F0%9F%9A%ABUpdateRequired%7CChiliVPN
