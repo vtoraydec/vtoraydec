@@ -1,7 +1,7 @@
 #profile-title:ChiliVPN
 #profile-update-interval: 1
 --------------------------
-vless://9f36a9f6-4834-44c1-bbb8-20e549d0ff43@am.vpnfreedom.tech:443/?type=tcp&security=reality&pbk=t4tDMKuUuxVwF1bIjGwheRb8tji-BTpUa3MT7ByswEg&fp=firefox&sni=yandex.ru&sid=64&spx=%2F&flow=xtls-rprx-vision#Chili🌶️VPN-001
-vless://2cec2733-389a-46a7-9053-218594a6336d@172.66.47.31:2096?encryption=none&security=tls&sni=NEwMTproxi.pAgES.DeV&fp=chrome&type=ws&host=NEwMTproxi.pAgES.DeV&path=%2F#Chili🌶️VPN-002
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2Fproxyip#Chili🌶️VPN-003
-vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@5.75.198.47:443/?encryption=none&security=reality&sni=vpn_proxy_channel_vpn_proxy_channel.hohod.ir&fp=chrome&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&sid=974a74bf&type=tcp&headerType=none#Chili🌶️VPN-004
+vless://9f36a9f6-4834-44c1-bbb8-20e549d0ff43@am.vpnfreedom.tech:443/?type=tcp&security=reality&pbk=t4tDMKuUuxVwF1bIjGwheRb8tji-BTpUa3MT7ByswEg&fp=firefox&sni=yandex.ru&sid=64&spx=%2F&flow=xtls-rprx-vision#1-Chil
+vless://2cec2733-389a-46a7-9053-218594a6336d@172.66.47.31:2096?encryption=none&security=tls&sni=NEwMTproxi.pAgES.DeV&fp=chrome&type=ws&host=NEwMTproxi.pAgES.DeV&path=%2F#2-Chili
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2Fproxyip#3-Chilii
+vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@5.75.198.47:443/?encryption=none&security=reality&sni=vpn_proxy_channel_vpn_proxy_channel.hohod.ir&fp=chrome&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&sid=974a74bf&type=tcp&headerType=none#4-Chiliii
