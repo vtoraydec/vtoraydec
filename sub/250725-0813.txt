@@ -6,4 +6,4 @@
 ----------
 vless://c43ffb5f-2343-4313-8ee8-4b40b4bd2c14@1.1.1.1:443?encryption=none&security=none&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&type=tcp&headerType=none#%F0%9F%9A%ABUpdateRequired%7CChiliVPN
 vless://c43ffb5f-2343-4313-8ee8-4b40b4bd2c14@1.1.1.1:443?encryption=none&security=none&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&type=tcp&headerType=none#این اشتراک را حذف کنید
-vless://c43ffb5f-2343-4313-8ee8-4b40b4bd2c14@1.1.1.1:443/?encryption=none&security=none&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&type=tcp&headerType=none#در اپلیکیشن چیلی اشتراک جدید بگیرید.
+vless://c43ffb5f-2343-4313-8ee8-4b40b4bd2c14@1.1.1.1:chili.zya.me/?encryption=none&security=none&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&type=tcp&headerType=none#در اپلیکیشن چیلی اشتراک جدید بگیرید.
