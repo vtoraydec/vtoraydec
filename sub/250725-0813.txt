@@ -1,7 +1,9 @@
-#profile-title:ChiliVPN
+#profile-title:Chili VPN
 #profile-update-interval: 1
---------------------------
-vless://9f36a9f6-4834-44c1-bbb8-20e549d0ff43@am.vpnfreedom.tech:443/?type=tcp&security=reality&pbk=t4tDMKuUuxVwF1bIjGwheRb8tji-BTpUa3MT7ByswEg&fp=firefox&sni=yandex.ru&sid=64&spx=%2F&flow=xtls-rprx-vision#1-Chili🌶VPN
-vless://TeleGram-HqV2rayNG@mci-mmnoon.r-sgoone.ir:80/?security=none&encryption=none&type=httpupgrade#2-Chili🌶VPN
-vless://494d3da1-e58e-41f0-a17e-fd4face2cb98@151.101.67.8:80?mode=auto&path=%2F%40HqVrayNG%2F%40HqVrayNG%2F%40HqVrayNG%2F%40HqVrayNG%2F%40HqVrayNG%2F%40HqVrayNG%2F%40HqVrayNG%2F%40HqVrayNG%2F%40HqVrayNG%2F%40HqVrayNG%2F%40HqVrayNG%2F%40HqVrayNG%2F%40HqVrayNG%2F%40HqVrayNG%2F%40HqVrayNG%2F%40HqVrayNG%2F%40HqVrayNG%2F%40HqVrayNG%2F%40HqVrayNG%2F%40HqVrayNG%2F%40HqVrayNG%2F%40HqVrayNG%2F%40HqVrayNG%3Fed%3D1024&security=none&encryption=none&host=fefwefwfeifnekl.com&type=xhttp#3-Chili🌶VPN
-vless://Telegram--SRCVPN@91.107.141.19:3080?mode=gun&security=reality&encryption=none&pbk=IBTQswLX4U6WI_tl305r8FKwhZoCka5nW0_idDXLUlo&fp=chrome&spx=%2F&type=grpc&sni=journalofbigdata.springeropen.com&sid=eb91f5c0#4-Chili🌶VPN
+#subscription-userinfo: upload=536870912000; download=536870912000; total=1073741824000; expire=1752929397
+#support-url: https://chili.liveblog365.com/
+#profile-web-page-url: https://chili.liveblog365.com
+----------
+vless://c43ffb5f-2343-4313-8ee8-4b40b4bd2c14@1.1.1.1:443?encryption=none&security=none&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&type=tcp&headerType=none#%F0%9F%9A%ABUpdateRequired%7CChiliVPN
+vless://c43ffb5f-2343-4313-8ee8-4b40b4bd2c14@1.1.1.1:443?encryption=none&security=none&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&type=tcp&headerType=none#این اشتراک را حذف کنید
+vless://c43ffb5f-2343-4313-8ee8-4b40b4bd2c14@1.1.1.1:443/?encryption=none&security=none&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&type=tcp&headerType=none#در اپلیکیشن چیلی اشتراک جدید بگیرید.
