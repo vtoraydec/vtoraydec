@@ -1,8 +1,3 @@
 #profile-title:ChiliVPN
 #profile-update-interval: 1
 --------------------------
-vless://9f36a9f6-4834-44c1-bbb8-20e549d0ff43@am.vpnfreedom.tech:443/?type=tcp&security=reality&pbk=t4tDMKuUuxVwF1bIjGwheRb8tji-BTpUa3MT7ByswEg&fp=firefox&sni=yandex.ru&sid=64&spx=%2F&flow=xtls-rprx-vision#1-Chili🌶VPN
-vless://TeleGram-HqV2rayNG@mci-mmnoon.r-sgoone.ir:80/?security=none&encryption=none&type=httpupgrade#2-Chili🌶VPN
-vless://963816bd-b6e7-4648-abff-8af25bc07d87@104.16.3.5:443/?type=ws&host=gulf-d96.pages.dev&path=/ecY3gziM8W6ud5yj?ed%3D2560&security=tls&fp=randomized&sni=gulf-d96.pages.dev#3-Chili🌶VPN
-vless://c4c97176-9084-6b50-3b87-b3575cee9124@91.107.156.69:44383/?security=reality&encryption=none&pbk=AUg2h16X8xP5s7tnkcDuyfX5CBV7WvCoY48OKhbtQyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zhaket.com&sid=821bbc44dd7a4e15#4-Chili🌶VPN
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.bankonbasak.com:443/?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#5-Chili🌶VPN
