@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 --------------------------
 vless://9f36a9f6-4834-44c1-bbb8-20e549d0ff43@am.vpnfreedom.tech:443/?type=tcp&security=reality&pbk=t4tDMKuUuxVwF1bIjGwheRb8tji-BTpUa3MT7ByswEg&fp=firefox&sni=yandex.ru&sid=64&spx=%2F&flow=xtls-rprx-vision#1-Chili🌶VPN
-vless://bbfe34ff-1ca2-4ed9-8ac9-6ef9fd799320@212.23.214.148:47534?security=none&encryption=none&type=tcp&host=Chili.zya.me&path=/?ed%3D2048&headerType=http#2-Chili🌶VPN
-vless://963816bd-b6e7-4648-abff-8af25bc07d87@104.16.3.5:443/?type=ws&host=gulf-d96.pages.dev&path=/ecY3gziM8W6ud5yj?ed%3D2560&security=tls&fp=randomized&sni=gulf-d96.pages.dev#3-Chili🌶VPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEWFFvY2JwSUk2Y01nTnVNSzV4Q2xR@85.208.139.158:25607/?type=tcp#4-Chili🌶VPN
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.bankonbasak.com:443/?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#5-Chili🌶VPN
+vless://24acb01b-4b53-40da-9e09-ffb54ef21602@se.marzban-locations.com:5059/?security=reality&encryption=none&pbk=SIZUCP8kFTMNONyzojhPmYWM_530dU3MEJVsJAV_604&headerType=none&fp=firefox&type=tcp&sni=refersion.com#2-Chili🌶VPN
+vless://24acb01b-4b53-40da-9e09-ffb54ef21602@cz.marzban-locations.com:5065/?security=reality&encryption=none&pbk=SIZUCP8kFTMNONyzojhPmYWM_530dU3MEJVsJAV_604&headerType=none&fp=firefox&type=tcp&sni=refersion.com#3-Chili🌶VPN
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.bankonbasak.com:443/?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#4-Chili🌶VPN
