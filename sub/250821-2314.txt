@@ -1,4 +1,2 @@
-#profile-title:ChiliVPN
-#profile-update-interval: 1
---------------------------
+
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?path=%2Fid5%2F%3Fed%3D%23%40Hddify---%40V2rayBaaz---%40Hddify---%40Hddify%3Fed%3D512&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#1-Chili🌶VPN
