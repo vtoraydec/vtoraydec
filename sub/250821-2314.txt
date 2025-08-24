@@ -1,4 +1,6 @@
-
+#profile-title:ChiliVPN
+#profile-update-interval: 1
+--------------------------
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?path=%2Fid5%2F%3Fed%3D%23%40Hddify---%40V2rayBaaz---%40Hddify---%40Hddify%3Fed%3D512&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#1-Chili🌶VPN
 vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@jquery.com:443?path=%2F%40Rayan_Config&security=tls&encryption=none&host=rayan-config-05.rayan-ii.dns-dynamic.net&fp=chrome&type=ws&sni=rAyAn-cOnFiG-05.rAyAn-iI.DnS-DyNaMiC.NeT#2-Chili🌶VPN
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=%2Fid5%3Fed%3D2560TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#3-Chili🌶VPN
