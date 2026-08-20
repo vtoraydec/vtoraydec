@@ -13,3 +13,6 @@ vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@164.37.104.234:443?encryption=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20UN%20%7C%20193.29.139.235
 vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?encryption=none&security=tls&sni=it2ws.wba-pn.ru&type=ws&path=/&packetEncoding=xudp#%F0%9F%87%AE%F0%9F%87%B9%20IT%20%7C%2045.155.68.9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20193.29.139.235
+vmess://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324?packetEncoding=xudp#V2RAYROZ-78
+vless://603819a3-dd65-408a-abab-15d8dc49887f@104.248.251.106:8880?encryption=none&type=http&host=store.steampowered.com&method=GET&packetEncoding=xudp#%3E%3E@v2rayNG_Matsuri::DE
+vless://603819a3-dd65-408a-abab-15d8dc49887f@64.226.117.146:8880?encryption=none&type=http&host=store.steampowered.com&method=GET&packetEncoding=xudp#%3E%3E@v2rayNG_Matsuri::DE
