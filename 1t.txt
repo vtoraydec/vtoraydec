@@ -4,10 +4,10 @@
 #support-url: https://chili.liveblog365.com/
 #profile-web-page-url: https://chili.liveblog365.com
 ----------
-vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?packetEncoding=xudp#vpn_ioss-612
-vmess://b65a2d69-5634-42a2-e4be-54e8a6176900@165.140.216.142:443?packetEncoding=xudp#vpn_ioss-546
-vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?packetEncoding=xudp#vpn_ioss-603
-vless://20c72888-b83e-4309-82a4-aab4a2dda778@166.88.186.151:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=static.vkimages.io&fp=firefox&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2&packetEncoding=xudp#a_17
-vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.185.141:22324?packetEncoding=xudp#%DB%B5%DB%B5%20-%20%20%F0%9F%87%BA%F0%9F%87%B8
-vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.250:180?packetEncoding=xudp#%DB%B3%DB%B8%20-%20%20%F0%9F%87%BA%F0%9F%87%B8
-vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?packetEncoding=xudp#%DB%B3%DB%B2%20-%20%20%F0%9F%87%BA%F0%9F%87%B8
+vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?packetEncoding=xudp#612
+vmess://b65a2d69-5634-42a2-e4be-54e8a6176900@165.140.216.142:443?packetEncoding=xudp#546
+vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?packetEncoding=xudp#603
+vless://20c72888-b83e-4309-82a4-aab4a2dda778@166.88.186.151:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=static.vkimages.io&alpn&fp=firefox&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2&packetEncoding=xudp#17
+vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.185.141:22324?packetEncoding=xudp#55
+vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.250:180?packetEncoding=xudp#38
+vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?packetEncoding=xudp#32
