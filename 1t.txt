@@ -11,5 +11,3 @@ vless://20c72888-b83e-4309-82a4-aab4a2dda778@166.88.186.151:9443?encryption=none
 vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.185.141:22324?packetEncoding=xudp#%DB%B5%DB%B5%20-%20%20%F0%9F%87%BA%F0%9F%87%B8
 vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.250:180?packetEncoding=xudp#%DB%B3%DB%B8%20-%20%20%F0%9F%87%BA%F0%9F%87%B8
 vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?packetEncoding=xudp#%DB%B3%DB%B2%20-%20%20%F0%9F%87%BA%F0%9F%87%B8
-vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?packetEncoding=xudp#%DB%B3%DB%B1%20-%20%20%F0%9F%87%BA%F0%9F%87%B8
-vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?packetEncoding=xudp#%DB%B2%DB%B9%20-%20%20%F0%9F%87%BA%F0%9F%87%B8
