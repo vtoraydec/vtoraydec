@@ -11,3 +11,7 @@ vless://20c72888-b83e-4309-82a4-aab4a2dda778@166.88.186.151:9443?encryption=none
 vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.185.141:22324?packetEncoding=xudp#55
 vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.250:180?packetEncoding=xudp#38
 vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?packetEncoding=xudp#32
+trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=119.246.1.143&allowInsecure=true#%F0%9F%87%AD%F0%9F%87%B0%20HK%201
+trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=119.246.1.143&allowInsecure=true#%F0%9F%87%AD%F0%9F%87%B0%20HK%202
+vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.183.35:22324?packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8%20US%2025
+vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.233:180?packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%BF%20CZ%202
