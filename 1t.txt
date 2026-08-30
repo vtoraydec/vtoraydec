@@ -7,3 +7,6 @@
 trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=119.246.1.143&allowInsecure=true#%F0%9F%87%AD%F0%9F%87%B0%20HK%202
 vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.185.141:22324?packetEncoding=xudp#55
 vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.183.35:22324?packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8%20US%2025
+vless://ba746959-18e7-471c-b00f-fa5cdd930abf@skk.moe:8880?encryption=none&type=ws&host=crimson-bread-c38e.295.workers.dev&path=/pyip%3DProxyIP.JP.CMLiussss.net&packetEncoding=xudp#abc
+vless://OwLimbo@65.20.84.60:443?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&alpn&fp=chrome&pbk=rW32mnGIawfF0HfU6-NYsue8jXVfGIBgEwgIEHC-FBY&sid=485c0fafd745&packetEncoding=xudp#D
+vless://68454e16-432d-4562-ba83-00b0da3ebb86@95.216.142.36:7443?encryption=none&type=http&host=amp-api-edge.apps.apple.com&method=GET&packetEncoding=xudp#E
