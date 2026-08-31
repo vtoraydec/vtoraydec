@@ -9,10 +9,10 @@ vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.185.141:22324?packetEncodin
 vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.183.35:22324?packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8%20US%2025
 vless://nasnet@51.116.235.210:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-51116235210-direct.mbghalibaf.com&alpn=h2&fp=chrome&packetEncoding=xudp#%F0%9F%87%A9%F0%9F%87%AA%20DE%2012
 vless://28134779-9a73-4051-8656-eaca255db753@5.152.223.192:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=strapi.io&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&packetEncoding=xudp#%F0%9F%87%AC%F0%9F%87%A7%20GB%204
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.96.124.46:443#%F0%9F%87%A8%F0%9F%87%A6%20CA%201
 vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.70.192:443?encryption=none&security=reality&sni=play.google.com&fp=random&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&packetEncoding=xudp#q_197
-vless://fae272a6-a184-4c91-83ed-771abdcff404@51.77.217.70:2053?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=5Me9XEMwr9siyrnV5zPHYfxB3QLqw-OzNAOuzkFu1kw&sid=7af95330630a7327&packetEncoding=xudp#vpn_ioss-685
-vless://5f829d2f-2f13-450c-81ac-e9832b8e47ec@144.31.1.201:8090?encryption=none&security=reality&sni=mold.speedload.online&fp=firefox&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=6b2f4e6ac9b1d2f0&type=grpc&serviceName=grpc&packetEncoding=xudp#configV2rayNG-520
-vless://aebeb940-51cb-429f-830d-c421351d18e3@104.24.19.99:443?encryption=none&security=tls&sni=novapanell.abdollahvand3.ir&fp=random&type=ws&host=novapanell.abdollahvand3.ir&path=/LUANVO&packetEncoding=xudp#%3E%3E@mehrosaboran::US
-vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@185.136.12.190:443?encryption=none&security=tls&sni=deu683.lackerdeu.org&alpn=h2&fp=firefox&type=xhttp&host=deu683.lackerdeu.org&path=/api/v1/&mode=auto&packetEncoding=xudp#%3E%3E@outline_vpn::XX
-vless://356eb531-dbaa-45cf-b2cc-cef80a5fe379@85.198.11.201:13784?encryption=none&packetEncoding=xudp#K
+vless://fae272a6-a184-4c91-83ed-771abdcff404@51.77.217.70:2053?encryption=none&security=reality&sni=www.google.com&alpn&fp=chrome&pbk=5Me9XEMwr9siyrnV5zPHYfxB3QLqw-OzNAOuzkFu1kw&sid=7af95330630a7327&packetEncoding=xudp#Afrooz685
+vless://5f829d2f-2f13-450c-81ac-e9832b8e47ec@144.31.1.201:8090?encryption=none&security=reality&sni=mold.speedload.online&alpn&fp=firefox&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=6b2f4e6ac9b1d2f0&type=grpc&serviceName=grpc&packetEncoding=xudp#Afrooz-520
+vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@185.136.12.190:443?encryption=none&security=tls&sni=deu683.lackerdeu.org&alpn=h2&fp=firefox&type=xhttp&host=deu683.lackerdeu.org&path=/api/v1/&mode=auto&packetEncoding=xudp#AfroozS3
+vless://XpnTeam-40@199.232.78.160:443?encryption=none&security=tls&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&type=ws&host=Appxdn.global.ssl.fastly.net&path=/&packetEncoding=xudp#Afrooz_ivpn
+vless://c7e9c591-2764-423a-afca-efbd010fd396@104.21.70.21:8080?encryption=none&type=ws&host=freeuse.firta.ru&path=/&packetEncoding=xudp#Afrooz_VVpn
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@derman.neobo-tooth.ru:2096?encryption=none&type=ws&host=derman.neobo-tooth.ru&path=/&packetEncoding=xudp#Afrooz_VIpn
