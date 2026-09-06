@@ -4,7 +4,6 @@
 #support-url: https://chili.liveblog365.com/
 #profile-web-page-url: https://chili.liveblog365.com
 ----------
-vless://080fad7c-ff4b-499f-ab5d-52d69ea5745a@185.207.197.12:80?encryption=none&type=ws&host=calm-tree-22b0.215-d2a.workers.dev&path=/pyip&packetEncoding=xudp#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20185.207.197.12
 ss://YWVzLTI1Ni1jZmI6VHlOa0dtcDloczZlR3BESw==@91.201.65.122:9092#%F0%9F%87%AE%F0%9F%87%B9%20IT%20%7C%2091.201.65.122
 trojan://MiTiVPN@151.101.56.7:443?security=tls&sni=ssl.fastly.com&alpn=http/1.1&fp=firefox&type=ws&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20151.101.56.7
 vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?encryption=none&type=grpc&serviceName=chat.deepseek.com&packetEncoding=xudp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%2082.24.203.174
