@@ -7,7 +7,11 @@
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.115:2087?encryption=none&type=ws&path=/4bc027a44532&packetEncoding=xudp#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20178.95.170.115
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.98:2087?encryption=none&type=ws&path=/4bc027a44532&packetEncoding=xudp#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20178.95.170.98
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@88.210.36.106:2377?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3D%28Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%29f6e348d%3A70852#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%2088.210.36.106
-vless://21e26ef9-c061-4ae3-88e4-ecc4513a3bb7@fristoofarfromyou.arakphone.ir:29188?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.diba4movie.xyz&alpn&fp=ios&pbk=_wJrpmOWloFFitJf2TBZNKSN0fQZGHkBur8MEQyG6yI&sid=57739912cc2f13ec&packetEncoding=xudp#%F0%9F%94%B5
-vless://My-chanel-Telegram-ATOVPN@185.71.219.80:15260?encryption=none&packetEncoding=xudp#%F0%9F%94%B5
-vless://d7e1be1d-967b-4f43-9014-ab68c414da72@185.204.170.125:333?encryption=none&packetEncoding=xudp#%F0%9F%94%B5
-vless://My-chanel-Telegram-ATOVPN@185.71.219.80:15260?encryption=none&packetEncoding=xudp#%F0%9F%94%B5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEaDhIWUZVZGxLck9uWDlB@20.223.154.126:443#%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%2020.223.154.126
+ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@217.30.10.44:9041#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20217.30.10.44
+trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&alpn=http/1.1&fp=chrome&type=ws&host=www.volumeroot.com&path=/assignment#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20188.42.145.180
+vless://4fb82973-a7f1-4fc2-9958-cb21f5162f06@nl-xh02.tcp-reset-club.net:8443?encryption=none&security=reality&sni=s3.netavex.com&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&sid=e0&type=xhttp&path=/assets/v2/pkg&mode=stream-one&extra=%7B%22xmux%22:%7B%22maxConcurrency%22:%2216-32%22%7D%7D&packetEncoding=xudp#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%2094.228.214.88
+vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?encryption=none&security=tls&sni=lizca2.footballfantasyforum.com&allowInsecure=true&packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20184.107.106.68
+vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@brightharbor.download:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=localhost&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sid&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%202.26.178.166
+vless://459a27d0-8782-48b8-8048-564afcd03196@168.119.103.176:8585?encryption=none&type=http&host=www.dell.com&method=GET&packetEncoding=xudp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20168.119.103.176
+vless://c21631d5-36c9-4664-b575-97eca17456be@neth8.lunariai.ru:443?encryption=none&type=ws&host=neth8.lunariai.ru&path=/&packetEncoding=xudp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%202.27.205.59
